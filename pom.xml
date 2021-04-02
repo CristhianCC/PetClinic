@@ -45,6 +45,7 @@
 				<artifactId>maven-release-plugin</artifactId>
 				<configuration>
 					<goals>install</goals>
+					<autoVersionSubmodules>true</autoVersionSubmodules>
 				</configuration>
 			</plugin>
 		</plugins>
@@ -52,7 +53,7 @@
 
 	<scm>
 		<developerConnection>scm:git:https://github.com/CristhianCC/PetClinic.git</developerConnection>
-	  <tag>0.0.2</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 </project>
