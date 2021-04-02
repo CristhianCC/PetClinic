@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>spring.framework</groupId>
 	<artifactId>pet-clinic</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.3-SNAPSHOT</version>
 
     <modules>
         <module>pet-clinic-data</module>
@@ -52,7 +52,7 @@
 
 	<scm>
 		<developerConnection>scm:git:https://github.com/CristhianCC/PetClinic.git</developerConnection>
-	  <tag>0.0.2</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 </project>
