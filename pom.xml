@@ -52,7 +52,7 @@
 
 	<scm>
 		<developerConnection>scm:git:https://github.com/CristhianCC/PetClinic.git</developerConnection>
-	  <tag>0.0.2</tag>
+	  <tag>pet-clinic-0.0.3</tag>
   </scm>
 
 </project>
