@@ -38,3 +38,6 @@ hs_err_pid*
 /pet-clinic-data/target/maven-archiver/pom.properties
 /pet-clinic-web/target/maven-archiver/pom.properties
 /pet-clinic-web/target/classes/application.properties
+/pet-clinic-data/pom.xml.releaseBackup
+/pet-clinic-web/pom.xml.releaseBackup
+/pom.xml.releaseBackup
