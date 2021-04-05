@@ -2,21 +2,10 @@ package com.spring.framework.pet.clinic.model;
 
 import java.util.Date;
 
-public class Pet {
-
-    private Long id;
+public class Pet extends BaseEntity{
     private Date birthDate;
     private Owner owner;
     private PetType petType;
-
-
-    public Long getId() {
-        return id;
-    }
-
-    public void setId(Long id) {
-        this.id = id;
-    }
 
     public Date getBirthDate() {
         return birthDate;
