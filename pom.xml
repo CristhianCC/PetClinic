@@ -54,4 +54,8 @@
 		</plugins>
 	</build>
 
+	<scm>
+		<developerConnection>scm:git:https://github.com/CristhianCC/PetClinic.git</developerConnection>
+	</scm>
+
 </project>
